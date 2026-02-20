@@ -1,5 +1,11 @@
 # Dicoding Collection Dashboard ✨
 
+## 🌐 Live Demo
+
+The application is deployed and publicly accessible at:
+
+🔗 **[Bike Sharing Data Analysis App](https://huszen-bike-sharing-data-analysis.streamlit.app/)**
+
 ## Setup Environment - Anaconda
 
 ```
